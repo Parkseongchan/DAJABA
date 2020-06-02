@@ -1,4 +1,4 @@
- # DAJAVA
+ # DAJAA
   FPGA를 이용한 High speed processing 지능형 CCTV
   
   팀 번호 : 34
