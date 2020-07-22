@@ -1,0 +1,1 @@
+python detect_video.py --video 0 --weights ./checkpoints/yolov3-tiny.tf --tin

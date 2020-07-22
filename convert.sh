@@ -1,0 +1,1 @@
+python convert.py --weights ./data/yolov3.weights --output ./checkpoints/yolov3.tf
